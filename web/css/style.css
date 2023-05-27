@@ -1,0 +1,81 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25/05/2023, 9:02:52 p. m.
+    Author     : APRENDIZ
+*/
+
+h1{
+
+text-align: center;
+
+
+} 
+
+h2{
+    
+    background: blue;
+    text-align: center;
+    
+    
+} 
+.registros button {
+
+ text-align: center;
+    
+    
+}
+
+body { 
+    background-color: red;
+    
+   background : url("fondo.avif"); 
+   
+    
+    
+    
+}
+
+
+div{
+    
+background-color: white;  
+    
+    color: red;
+    
+    
+    
+    
+}
+.container{
+     width: 282px; 
+    height:177px; 
+    text-align: center; 
+    top: 58%;
+    left:43%;
+    position: absolute;
+
+    
+    
+} 
+.container1{
+     width: 553px; 
+    height:373px; 
+    text-align: center; 
+    top: 49%;
+    left:38%;
+    position: absolute; 
+} 
+.container2{
+    width: 553px; 
+    height:373px; 
+    text-align: center; 
+    top: 49%;
+    left:38%;
+    position: absolute;
+}
+
+
+
